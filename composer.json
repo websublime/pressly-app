@@ -1,6 +1,6 @@
 {
 	"require": {
-		"websublime/pressly": "dev-master"
+		"websublime/pressly": "dev-experiment"
 	},
 	"minimum-stability": "dev"
 }
